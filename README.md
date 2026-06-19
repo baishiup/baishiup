@@ -24,7 +24,7 @@ Senior frontend engineer with **10+ years** building complex web applications, i
 </p>
 
 <a href="https://career-workbench.vercel.app">
-  <img src="https://raw.githubusercontent.com/baishiup/career-workbench/main/docs/assets/readme-hero.png" width="680" alt="Career Workbench product screens">
+  <img src="https://raw.githubusercontent.com/baishiup/career-workbench/main/docs/assets/job-match.png" width="680" alt="Career Workbench AI job match analysis">
 </a>
 
 Turn a personal fact library + a target JD into a **traceable, tailored résumé — without hallucinated experience.**
